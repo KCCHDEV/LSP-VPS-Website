@@ -1,0 +1,33 @@
+body {
+  font-family: 'Kanit', sans-serif !important;
+    background: -webkit-linear-gradient(-90deg, #ff5757, #f9907d);
+    background: -o-linear-gradient(-90deg, #ff5757, #f9907d);
+    background: -moz-linear-gradient(-90deg, #ff5757, #f9907d);
+    background: linear-gradient(-90deg, #ff5757, #f9907d);
+}
+
+.card {
+    margin-left: 350px;
+    margin-top: 150px;
+    align-content: center;
+    border-radius: 25px;
+    transition: 0.3s;
+    width: 65%;
+    background-color: #fff;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .container h1 {
+    text-align: center;
+    font-size: 28x;
+    color: #374151;
+    font-weight: 500;
+    line-height: 26px;
+  }
+
+h3 {
+  color: #374151;
+}
